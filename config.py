@@ -1,4 +1,4 @@
 file = ''
 oper = ''
 alg = ''
-menya zovut pashok
+##menya zovut pashok
