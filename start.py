@@ -1,8 +1,8 @@
 import os
+import config
 from Crypto import Random
 from Crypto.Cipher import DES
 from Crypto.Cipher import AES
-import config
 
 def start():
     file = input('Put the file you want to encrypt or decrypt into the folder with the start.py\n'
